@@ -1,0 +1,8 @@
+condition,template_text,evidence_level,guideline_source
+Dengue with Warning Signs,Patient presents with {symptoms}. Platelet count {platelet_count} indicates severity. IV fluids required for hydration. Monitoring essential for {duration} hours.,1A,WHO 2024
+Severe Dengue,Critical dengue with {complications}. Platelet transfusion indicated as count dropped to {platelet_count}. ICU admission mandatory for {icu_days} days.,1B,WHO 2024
+Acute MI,Acute MI with {ecg_findings}. Troponin levels {troponin}. Emergency {procedure} required within {window} minutes. Mortality reduced by {reduction}%.,1A,ACC/AHA 2023
+Stroke,Stroke with {neurological_deficits}. CT/MRI confirms {findings}. Thrombolysis within {window} hours. NIHSS score {nihss}.,1A,AHA/ASA 2024
+Diabetic Ketoacidosis,"DKA with pH {ph}, glucose {glucose}. Insulin drip and hourly monitoring required. Electrolyte replacement: {electrolytes}.",1B,ADA 2024
+Severe Pneumonia,Severe pneumonia with {symptoms}. Oxygen saturation {o2_sat}. Required {treatment}. CURB-65 score {curb65}.,1A,IDSA/ATS 2023
+Complex Fracture,Complex fracture of {bone} with displacement. Required {surgery}. Post-op care for {recovery_days} days.,2A,AAOS 2024

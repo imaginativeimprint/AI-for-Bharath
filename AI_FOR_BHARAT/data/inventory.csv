@@ -1,0 +1,11 @@
+item_code,item_name,category,unit_price,reorder_level,current_stock,manufacturer
+IV001,IV Set,Consumable,450,500,1240,B Braun
+IV002,IV Cannula,Consumable,380,500,890,BD
+STENT01,Cardiac Stent,Implant,125000,20,45,Medtronic
+CATH01,Catheter,Consumable,850,200,350,Coloplast
+MED01,Paracetamol IV,Medicine,380,1000,2300,Cipla
+MED02,Antibiotic (Meropenem),Medicine,1250,200,450,Pfizer
+SUP01,Oxygen Mask,Supply,850,300,780,Philips
+SUP02,Surgical Gloves,Supply,80,5000,12450,Kimberly
+IMPLANT01,Pacemaker,Implant,350000,10,23,Abbott
+SURG01,Suture Kit,Surgical,2500,100,230,Johnson

@@ -1,0 +1,7 @@
+insurer_id,insurer_name,rejection_rate,avg_processing_days,pre_auth_required,network_type,contact_email,contact_phone
+IC001,Star Health,28.5,12,True,Pan India,claims@starhealth.in,1800-123-4567
+IC002,ICICI Lombard,22.3,8,True,Pan India,claims@icicilombard.com,1800-123-4567
+IC003,HDFC ERGO,24.7,10,True,Pan India,claims@hdfcergo.com,1800-123-4567
+IC004,New India Assurance,15.2,15,False,Government,claims@newindia.co.in,1800-123-4567
+IC005,Bajaj Allianz,18.9,9,True,Pan India,claims@bajajallianz.com,1800-123-4567
+IC006,Oriental Insurance,20.1,14,False,Government,claims@orientalinsurance.in,1800-123-4567

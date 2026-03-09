@@ -1,0 +1,6 @@
+diagnosis,icd10,cpt,procedure,amount
+Dengue,A90,96365,IV Infusion,3500
+Dengue Severe,A91,96360,IV Hydration,2800
+Pneumonia,J18.9,71046,Chest X-ray,5200
+MI,I21.9,93005,ECG,12500
+Fracture,S72.0,27238,Fracture Fixation,85000

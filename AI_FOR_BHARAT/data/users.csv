@@ -1,0 +1,11 @@
+user_id,username,password,user_type,full_name,department,email,active,last_login
+U0001,admin,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,admin,Admin User,Administration,admin@hospital.com,True,2026-03-03 23:55:33.951908
+U0002,manager1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,manager,Manager One,Management,manager@hospital.com,True,2026-02-25 23:55:33.951908
+U0003,biller1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,biller,John Biller,Billing,john.b@hospital.com,True,2026-02-08 23:55:33.951908
+U0004,biller2,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,biller,Jane Biller,Billing,jane.b@hospital.com,True,2026-02-26 23:55:33.951908
+U0005,auditor1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,auditor,Auditor One,Audit,audit@hospital.com,True,2026-02-10 23:55:33.951908
+U0006,doctor1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,doctor,Dr. Sharma,Cardiology,dr.sharma@hospital.com,True,2026-02-23 23:55:33.951908
+U0007,doctor2,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,doctor,Dr. Patel,Emergency,dr.patel@hospital.com,True,2026-02-23 23:55:33.951908
+U0008,nurse1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,nurse,Nurse Priya,ICU,priya.n@hospital.com,True,2026-02-08 23:55:33.951908
+U0009,nurse2,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,nurse,Nurse Anjali,General Ward,anjali.n@hospital.com,True,2026-03-01 23:55:33.951908
+U0010,reception1,ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f,reception,Reception Raj,Front Desk,raj.r@hospital.com,True,2026-02-28 23:55:33.951908

@@ -1,0 +1,16 @@
+icd10_code,description,category,risk_factor,avg_los
+A90,Dengue Fever,Infectious,0.6,5
+A91,Dengue Hemorrhagic Fever,Infectious,0.8,8
+J18.9,Pneumonia,Respiratory,0.5,7
+I21.9,Acute Myocardial Infarction,Cardiovascular,0.9,10
+I63.9,Cerebral Infarction,Cardiovascular,0.85,12
+E11.9,Type 2 Diabetes Mellitus,Endocrine,0.4,4
+I10,Essential Hypertension,Cardiovascular,0.3,3
+S72.0,Fracture of Femur,Musculoskeletal,0.5,6
+K35.8,Acute Appendicitis,Digestive,0.6,4
+N39.0,Urinary Tract Infection,Urinary,0.2,3
+J45.9,Asthma,Respiratory,0.3,3
+M54.5,Low Back Pain,Musculoskeletal,0.2,2
+R50.9,Fever,General,0.1,2
+R11.2,Nausea and Vomiting,General,0.1,1
+R10.4,Abdominal Pain,General,0.2,2

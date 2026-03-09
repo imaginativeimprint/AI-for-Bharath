@@ -1,0 +1,16 @@
+cpt_code,description,category,base_price,modifier_allowed
+96365,IV Infusion,Procedure,3500,True
+96360,IV Hydration,Procedure,2800,True
+71046,Chest X-ray,Radiology,5200,False
+93005,ECG,Cardiology,12500,True
+70496,CT Brain,Radiology,18500,True
+82947,Blood Glucose Test,Lab,800,False
+93000,Stress Test,Cardiology,7500,True
+27238,Fracture Fixation,Surgery,85000,True
+44970,Appendectomy,Surgery,65000,True
+81001,Urinalysis,Lab,600,False
+94640,Nebulizer Treatment,Respiratory,1200,True
+97110,Physical Therapy,Therapy,1500,True
+99222,Hospital Admission,Evaluation,8500,True
+99232,Hospital Follow-up,Evaluation,4500,True
+99221,Hospital Initial Care,Evaluation,7500,True

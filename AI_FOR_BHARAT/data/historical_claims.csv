@@ -1,0 +1,101 @@
+Claim_ID,Date,Insurer,Patient_Name,Diagnosis,Amount,Result,Processing_Days
+CLM1000,2025-12-23,Star Health,Patient_0,Typhoid,184333,Rejected,13
+CLM1001,2025-11-16,HDFC ERGO,Patient_1,Fracture,77860,Approved,11
+CLM1002,2025-12-12,ICICI Lombard,Patient_2,Fracture,104264,Approved,14
+CLM1003,2025-10-07,New India Assurance,Patient_3,Pneumonia,174417,Approved,15
+CLM1004,2026-01-24,Star Health,Patient_4,Malaria,154296,Approved,3
+CLM1005,2025-11-02,Bajaj Allianz,Patient_5,Malaria,209670,Rejected,6
+CLM1006,2025-09-29,Star Health,Patient_6,Malaria,86261,Rejected,5
+CLM1007,2025-12-20,New India Assurance,Patient_7,MI,38650,Approved,6
+CLM1008,2026-01-10,New India Assurance,Patient_8,Fracture,80096,Approved,13
+CLM1009,2025-11-02,Star Health,Patient_9,Dengue Fever,38523,Approved,7
+CLM1010,2025-11-27,Bajaj Allianz,Patient_10,Pneumonia,96357,Approved,3
+CLM1011,2025-09-20,New India Assurance,Patient_11,Malaria,231210,Approved,13
+CLM1012,2026-01-04,Star Health,Patient_12,Dengue Fever,235313,Rejected,7
+CLM1013,2025-10-16,Star Health,Patient_13,Dengue Fever,183456,Rejected,4
+CLM1014,2025-10-04,Bajaj Allianz,Patient_14,Malaria,35003,Approved,13
+CLM1015,2025-09-27,New India Assurance,Patient_15,Fracture,93432,Approved,12
+CLM1016,2025-10-27,Bajaj Allianz,Patient_16,Pneumonia,70959,Approved,7
+CLM1017,2026-01-12,Star Health,Patient_17,Pneumonia,175218,Approved,6
+CLM1018,2026-01-29,Bajaj Allianz,Patient_18,Pneumonia,234297,Rejected,7
+CLM1019,2025-10-05,Star Health,Patient_19,Pneumonia,139931,Approved,8
+CLM1020,2025-10-17,Bajaj Allianz,Patient_20,Typhoid,64050,Approved,6
+CLM1021,2026-02-16,HDFC ERGO,Patient_21,Typhoid,218429,Rejected,8
+CLM1022,2026-02-21,Bajaj Allianz,Patient_22,Malaria,231295,Approved,3
+CLM1023,2025-10-14,Bajaj Allianz,Patient_23,Dengue Fever,237108,Approved,7
+CLM1024,2025-09-13,New India Assurance,Patient_24,Fracture,61036,Rejected,15
+CLM1025,2026-02-20,ICICI Lombard,Patient_25,Fracture,189629,Approved,3
+CLM1026,2025-09-14,New India Assurance,Patient_26,Malaria,162954,Approved,7
+CLM1027,2026-01-09,New India Assurance,Patient_27,MI,231142,Approved,3
+CLM1028,2025-10-03,Star Health,Patient_28,MI,38821,Rejected,8
+CLM1029,2026-01-15,Star Health,Patient_29,Pneumonia,218461,Rejected,2
+CLM1030,2026-01-11,HDFC ERGO,Patient_30,Typhoid,197085,Approved,9
+CLM1031,2025-12-14,ICICI Lombard,Patient_31,Fracture,208448,Approved,3
+CLM1032,2026-01-04,ICICI Lombard,Patient_32,Dengue Fever,109307,Approved,3
+CLM1033,2026-02-13,ICICI Lombard,Patient_33,Fracture,180354,Approved,12
+CLM1034,2025-11-16,HDFC ERGO,Patient_34,Typhoid,177892,Approved,7
+CLM1035,2026-02-11,HDFC ERGO,Patient_35,Malaria,42549,Rejected,14
+CLM1036,2025-12-22,ICICI Lombard,Patient_36,Pneumonia,100128,Rejected,9
+CLM1037,2025-10-07,Bajaj Allianz,Patient_37,Fracture,82125,Approved,15
+CLM1038,2025-10-10,Bajaj Allianz,Patient_38,Malaria,237186,Approved,8
+CLM1039,2026-02-04,Star Health,Patient_39,Malaria,151220,Approved,14
+CLM1040,2026-02-08,ICICI Lombard,Patient_40,Dengue Fever,176966,Rejected,5
+CLM1041,2025-10-06,Bajaj Allianz,Patient_41,Pneumonia,55332,Approved,15
+CLM1042,2025-10-17,Bajaj Allianz,Patient_42,Pneumonia,42495,Approved,7
+CLM1043,2025-12-27,HDFC ERGO,Patient_43,Malaria,83150,Rejected,8
+CLM1044,2026-02-18,HDFC ERGO,Patient_44,Dengue Fever,37851,Rejected,11
+CLM1045,2026-01-26,Bajaj Allianz,Patient_45,Fracture,111749,Approved,8
+CLM1046,2025-12-30,Star Health,Patient_46,Pneumonia,138755,Approved,13
+CLM1047,2026-02-01,New India Assurance,Patient_47,MI,101324,Approved,7
+CLM1048,2025-09-11,New India Assurance,Patient_48,Pneumonia,231963,Approved,8
+CLM1049,2025-10-16,New India Assurance,Patient_49,MI,166500,Approved,10
+CLM1050,2025-09-13,ICICI Lombard,Patient_50,Pneumonia,229389,Approved,11
+CLM1051,2025-09-14,HDFC ERGO,Patient_51,Malaria,144636,Rejected,6
+CLM1052,2026-01-21,ICICI Lombard,Patient_52,Fracture,147460,Approved,15
+CLM1053,2025-12-04,New India Assurance,Patient_53,Fracture,171924,Approved,14
+CLM1054,2025-11-15,New India Assurance,Patient_54,Dengue Fever,59168,Approved,9
+CLM1055,2025-09-10,HDFC ERGO,Patient_55,Dengue Fever,28007,Approved,3
+CLM1056,2026-02-16,Bajaj Allianz,Patient_56,Malaria,155128,Approved,5
+CLM1057,2026-02-04,ICICI Lombard,Patient_57,Pneumonia,214785,Approved,5
+CLM1058,2026-02-23,ICICI Lombard,Patient_58,Dengue Fever,101149,Rejected,10
+CLM1059,2026-01-21,Bajaj Allianz,Patient_59,Malaria,82196,Rejected,7
+CLM1060,2025-10-02,New India Assurance,Patient_60,Fracture,151305,Rejected,3
+CLM1061,2026-02-11,ICICI Lombard,Patient_61,Fracture,173423,Approved,9
+CLM1062,2026-01-18,New India Assurance,Patient_62,Dengue Fever,135191,Approved,7
+CLM1063,2025-10-19,New India Assurance,Patient_63,Pneumonia,134512,Approved,5
+CLM1064,2026-02-09,Bajaj Allianz,Patient_64,Pneumonia,246570,Approved,13
+CLM1065,2026-03-02,New India Assurance,Patient_65,Fracture,181178,Rejected,13
+CLM1066,2025-10-11,Star Health,Patient_66,Typhoid,94217,Approved,6
+CLM1067,2025-11-10,ICICI Lombard,Patient_67,Dengue Fever,117902,Rejected,7
+CLM1068,2025-09-28,New India Assurance,Patient_68,MI,198397,Approved,3
+CLM1069,2026-03-04,Bajaj Allianz,Patient_69,Dengue Fever,185897,Approved,12
+CLM1070,2026-02-20,Bajaj Allianz,Patient_70,Pneumonia,107236,Rejected,15
+CLM1071,2025-11-04,HDFC ERGO,Patient_71,Pneumonia,147489,Rejected,12
+CLM1072,2025-09-16,ICICI Lombard,Patient_72,Malaria,244170,Approved,2
+CLM1073,2026-01-15,Bajaj Allianz,Patient_73,Pneumonia,221493,Approved,10
+CLM1074,2026-01-14,ICICI Lombard,Patient_74,MI,241322,Approved,4
+CLM1075,2026-01-14,Star Health,Patient_75,Malaria,81597,Approved,7
+CLM1076,2026-01-06,New India Assurance,Patient_76,MI,178071,Approved,4
+CLM1077,2025-12-11,ICICI Lombard,Patient_77,Malaria,164353,Approved,2
+CLM1078,2026-01-24,New India Assurance,Patient_78,Dengue Fever,183298,Approved,11
+CLM1079,2025-09-20,ICICI Lombard,Patient_79,MI,196505,Approved,5
+CLM1080,2026-01-23,New India Assurance,Patient_80,MI,94855,Approved,15
+CLM1081,2025-10-24,Star Health,Patient_81,MI,63807,Approved,2
+CLM1082,2025-09-17,Bajaj Allianz,Patient_82,MI,204505,Approved,9
+CLM1083,2026-01-12,Bajaj Allianz,Patient_83,Pneumonia,199219,Approved,8
+CLM1084,2026-01-14,Bajaj Allianz,Patient_84,Dengue Fever,110009,Approved,11
+CLM1085,2026-01-22,New India Assurance,Patient_85,Typhoid,25256,Approved,7
+CLM1086,2025-09-29,ICICI Lombard,Patient_86,Fracture,173906,Approved,13
+CLM1087,2026-01-20,Bajaj Allianz,Patient_87,Pneumonia,189080,Approved,14
+CLM1088,2025-11-04,New India Assurance,Patient_88,Typhoid,144667,Rejected,2
+CLM1089,2025-10-15,ICICI Lombard,Patient_89,Dengue Fever,66294,Approved,11
+CLM1090,2026-02-21,ICICI Lombard,Patient_90,Fracture,175397,Rejected,14
+CLM1091,2026-01-23,New India Assurance,Patient_91,Fracture,179040,Rejected,14
+CLM1092,2026-02-14,New India Assurance,Patient_92,Typhoid,231473,Rejected,13
+CLM1093,2026-01-25,Bajaj Allianz,Patient_93,MI,191696,Approved,11
+CLM1094,2025-10-18,Bajaj Allianz,Patient_94,Pneumonia,111065,Approved,6
+CLM1095,2025-09-16,ICICI Lombard,Patient_95,MI,232248,Rejected,15
+CLM1096,2025-11-11,Star Health,Patient_96,Pneumonia,59683,Approved,6
+CLM1097,2025-11-29,ICICI Lombard,Patient_97,MI,43327,Rejected,6
+CLM1098,2026-01-18,HDFC ERGO,Patient_98,Pneumonia,186304,Approved,5
+CLM1099,2025-10-28,Bajaj Allianz,Patient_99,Typhoid,98738,Approved,3
