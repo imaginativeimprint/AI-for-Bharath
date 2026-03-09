@@ -1,9 +1,0 @@
-insurer,rejection_reason,frequency,avg_claim_amount,pattern_severity
-Star Health,Missing Diagnostic Reports,156,45000,High
-Star Health,ICU Stay > 24h without justification,98,85000,Medium
-ICICI Lombard,Procedure code mismatch,203,120000,High
-ICICI Lombard,Pre-auth not obtained,167,65000,High
-HDFC ERGO,Medical necessity not established,145,95000,Medium
-HDFC ERGO,Duplicate billing,89,35000,Low
-New India Assurance,Out of network provider,112,55000,Medium
-Bajaj Allianz,Documentation incomplete,78,48000,Low

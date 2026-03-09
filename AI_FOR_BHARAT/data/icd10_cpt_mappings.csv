@@ -1,9 +1,0 @@
-diagnosis,icd10_code,recommended_cpt,procedure,reimbursement_rate,medical_necessity
-Dengue Fever,A90,96365,IV Infusion,3500,Required for severe dehydration
-Dengue Fever,A91,96360,IV Hydration,2800,Required for fever > 3 days
-Typhoid,A01.0,87070,Blood Culture,4200,Required for fever workup
-Typhoid,A01.04,87071,Blood Culture with ID,6800,Required for complicated typhoid
-Pneumonia,J18.9,71046,Chest X-ray,5200,Required for pneumonia diagnosis
-Pneumonia,J15.4,87073,Sputum Culture,3800,Required for bacterial confirmation
-Myocardial Infarction,I21.9,93005,ECG,12500,Required for cardiac workup
-Fracture Femur,S72.0,27238,Femur Fracture Fixation,85000,Emergency procedure
