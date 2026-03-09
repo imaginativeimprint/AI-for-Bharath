@@ -1,0 +1,6 @@
+condition,icd10,justification_template,required_tests
+Dengue with Warning Signs,A90,Patient presents with {symptoms}. IV fluids required due to {reason}. Monitoring of vitals essential for {duration}.,"CBC, Platelet Count, Dengue NS1"
+Severe Dengue,A91,Critical dengue with {complications}. Platelet transfusion indicated as count dropped to {platelet_count}. ICU admission mandatory.,"CBC, Platelet Count, LFT, Ultrasound"
+Myocardial Infarction,I21.9,Acute MI with {ecg_findings}. Cardiac catheterization and {procedure} required emergently. Troponin levels: {troponin}.,"ECG, Troponin, Echo"
+Cerebrovascular Accident,I63.9,Stroke with {neurological_deficits}. CT/MRI imaging confirms {findings}. Thrombolysis within window period.,"CT Brain, MRI, Carotid Doppler"
+Diabetic Ketoacidosis,E10.11,"DKA with pH {ph_value}, glucose {glucose_level}. Insulin drip and hourly monitoring required. Electrolyte replacement: {electrolytes}.","ABG, RBS, Electrolytes, Ketones"

@@ -1,0 +1,9 @@
+item_code,item_name,category,unit_price,reorder_level,current_stock
+IV001,IV Set,Consumable,450,500,1250
+IV002,IV Cannula,Consumable,380,500,890
+STENT01,Cardiac Stent,Implant,85000,50,120
+STENT02,Peripheral Stent,Implant,65000,40,85
+MED01,Paracetamol IV,Medicine,380,1000,2300
+MED02,Antibiotic IV,Medicine,1250,500,780
+SUP01,Oxygen Mask,Supply,850,200,450
+SUP02,Ventilator Circuit,Supply,2200,100,230
